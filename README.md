@@ -1,13 +1,20 @@
+<div align="center">
+
 # Hi, I'm Badipati Anil Kumar 👋
 
-**Software Engineer | SQL & Python Developer | Data Analyst**  
-📍 Andhra Pradesh, India | 🎓 B.E. Computer Science & Engineering (2025)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=550&height=45&lines=Software+Engineer+(Python+%26+SQL);Data+Analyst+%7C+Power+BI+%26+DAX;Relational+Database+Developer;AI+%26+Data+Engineering+Enthusiast)](https://github.com/Anilkumar4516)
+
+<p align="center">
+  📍 Andhra Pradesh, India &nbsp;|&nbsp; 🎓 B.E. Computer Science & Engineering (2025)
+</p>
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a Computer Science graduate focused on **Python**, **SQL/relational databases**, and **data analytics**. My practical background spans designing database schemas, writing complex SQL queries and ETL scripts, and building responsive data-driven tools.
+I am a Computer Science graduate focused on **Python**, **SQL / relational databases**, and **data analytics**. My practical background spans designing database schemas, writing complex SQL queries and ETL scripts, and building responsive data-driven tools.
 
 - 💼 **SQL with Python Developer Intern** at Algonex IT Solutions (2026) — wrote complex relational queries, data extraction pipelines, and Python transformation scripts.
 - ☁️ **Data Engineering Virtual Intern** supported by AWS Academy (AICTE-EduSkills, 2023) — worked with cloud and data engineering fundamentals on AWS.
@@ -17,11 +24,30 @@ I am a Computer Science graduate focused on **Python**, **SQL/relational databas
 
 ## 🛠️ Technical Skills
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/IBM_Watson-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Watson" />
+</p>
+
 - **Databases & Querying:** SQL, MySQL, Relational Schema Design, Multi-Table Joins, Aggregations, Subqueries
 - **Programming & Scripting:** Python (Pandas, NumPy, Matplotlib), Node.js / JavaScript basics
 - **Business Intelligence & Analytics:** Power BI (Power Query, DAX, Data Modeling, Report UX), Microsoft Excel (Pivot Tables, Lookups)
 - **AI & Cloud Platforms:** IBM watsonx Assistant, IBM Watson Studio, AWS cloud fundamentals
 - **Version Control & Tools:** Git, GitHub, VS Code, Jupyter Notebook
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anilkumar4516&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080c14&title_color=38bdf8&icon_color=a855f7&text_color=94a3b8" height="165" alt="Anil's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anilkumar4516&layout=compact&theme=tokyonight&hide_border=true&bg_color=080c14&title_color=38bdf8&text_color=94a3b8" height="165" alt="Top Languages" />
+</div>
 
 ---
 
