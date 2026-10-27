@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./assets/profile.jpg" alt="Badipati Anil Kumar" width="165" height="165" style="border-radius: 50%; max-width: 100%; border: 3px solid #38bdf8; box-shadow: 0 0 30px rgba(56, 189, 248, 0.4);" />
-
 # Hi, I'm Badipati Anil Kumar 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=550&height=45&lines=Software+Engineer+(Python+%26+SQL);Data+Analyst+%7C+Power+BI+%26+DAX;Relational+Database+Developer;AI+%26+Data+Engineering+Enthusiast)](https://github.com/Anilkumar4516)
